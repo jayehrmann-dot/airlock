@@ -10,6 +10,10 @@ and get behind a door yourself. Every worker you save breaches another room
 and brings more creatures out of the vents. Atari 2600 looks, one screen,
 inside your terminal.
 
+<p align="center">
+<img width="562" height="424" alt="airlock" src="https://github.com/user-attachments/assets/ff50ac67-a132-45ab-a641-4c57dbdad7fa" />
+</p>
+
 ```bash
 ./play.sh
 ```
